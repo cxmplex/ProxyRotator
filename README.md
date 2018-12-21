@@ -8,6 +8,6 @@ gets the next proxy in the pool
 
 removes proxy from pool
 
-### get_retry
+### get/set_retry
 
-gets a previously failed proxy from pool
+gets/sets a previously failed proxy from pool
