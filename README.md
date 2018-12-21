@@ -2,12 +2,12 @@
 
 ### getProxy
 
-#### gets the next proxy in the pool
+gets the next proxy in the pool
 
 ### banProxy
 
-#### removes proxy from pool
+removes proxy from pool
 
 ### getRetry
 
-#### gets a previously failed proxy
+gets a previously failed proxy from pool
