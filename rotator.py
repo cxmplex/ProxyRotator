@@ -41,3 +41,8 @@ class Rotator:
 
     def get_retry(self):
         return next(self.pools["retries"])
+    
+    def add_retry(self, proxy):
+        self.proxies["running"].remove(proxy)
+        self.proxies["retries"].append(proxy)
+
