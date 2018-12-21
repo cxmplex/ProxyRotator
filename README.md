@@ -1,13 +1,13 @@
 # ProxyRotator
 
-### getProxy
+### get_proxy
 
 gets the next proxy in the pool
 
-### banProxy
+### ban_proxy
 
 removes proxy from pool
 
-### getRetry
+### get_retry
 
 gets a previously failed proxy from pool
