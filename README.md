@@ -10,4 +10,4 @@ removes proxy from pool
 
 ### get/set_retry
 
-gets/sets a previously failed proxy from pool
+gets/sets a previously failed proxy from/into pool
